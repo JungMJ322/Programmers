@@ -21,3 +21,11 @@
 - [01_check_contents](https://github.com/JungMJ322/Practice/blob/master/programmers/MySQL/01_check_contents.md)
 
 - [02_check_contents_case](https://github.com/JungMJ322/Practice/blob/master/programmers/MySQL/02_check_contents_case.md)
+
+- [03_avg_car_rental.md](https://github.com/JungMJ322/Programmers/blob/master/MySQL/03_avg_car_rental.md)
+
+- [04_check_largest_views_file.md](https://github.com/JungMJ322/Programmers/blob/master/MySQL/04_check_largest_views_file.md)
+
+- [05_rent_per_month_car.md](https://github.com/JungMJ322/Programmers/blob/master/MySQL/05_rent_per_month_car.md)
+
+- [06_rand_car_status.md](https://github.com/JungMJ322/Programmers/blob/master/MySQL/06_rand_car_status.md)
